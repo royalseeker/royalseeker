@@ -46,7 +46,7 @@
 
 ### 📫 **Let’s Connect!**  
 - 💼 **LinkedIn**: [Let’s collaborate!](https://www.linkedin.com/in/rayanahmed16/)  
-- 🖥️ **GitHub**: [Explore my repos](https://github.com/royalseeker)  
+- 🖥️ **GitHub**: [Explore my repos](https://github.com/royalseeker?tab=repositories)  
 
 ---
 

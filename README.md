@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rayan Ahmed! 
 
-<!--
-**royalseeker/royalseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔬 Bioinformatics Specialist | 🧬 Computational Biology | 📊 AI-Driven Genomics**  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayanahmed16/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:royal.ram16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/royalseeker)
+[![Visitors](https://komarev.com/ghpvc/?username=royalseeker&label=Profile%20Views&color=blueviolet)](https://github.com/royalseeker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **About Me**  
+- 🔭 **Currently**: Bioinformatics Intern @ **HackBio**, check it out. [REPO](royalseeker/hackbio-biocoding-internship/)  
+- 🌱 **Learning**: Scalable workflows (Nextflow), hierarchical ML for multi-omics, and Azure cloud.  
+- 💡 **Passionate About**: Translating genomic data into actionable insights for precision health.  
+- ⚡ **Fun Fact**: I trained an AI to predict plant stress—turns out, plants dislike Mondays too! 🌱😅  
+
+---
+
+### 🛠️ **Technical Stack**  
+
+**Languages & Tools**:  
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)
+![R](https://img.shields.io/badge/R-Advanced-276DC3?logo=r)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=postgresql)
+![Nextflow](https://img.shields.io/badge/Nextflow-Basic-00CC99?logo=nextflow)
+
+
+**Domains**:  
+- Single-cell RNA-seq | Bulk RNA-seq | Multi-omics Integration  
+- Machine Learning (QSAR, CNNs) | Cloud Pipelines (Azure/Docker)  
+
+---
+
+### 📌 **Highlighted Projects**  
+
+#### 🧠 **Glioblastoma Single-Cell Analysis**  
+- Identified cell-type-specific biomarkers in >3,500 cells using Seurat/Scanpy.  
+- Tools: Python | Scanpy | Clustering Algorithms  
+
+#### 💊 **QSAR Drug Discovery Models**  
+- Predicted p38 MAPK inhibitors (R² = 0.63) using scikit-learn.  
+- Tools: Python | Feature Selection | Regression Analysis  
+
+---
+
+### 📫 **Let’s Connect!**  
+- 💼 **LinkedIn**: [Let’s collaborate!](https://www.linkedin.com/in/rayanahmed16/)  
+- 🖥️ **GitHub**: [Explore my repos](https://github.com/royalseeker)  
+
+---
+
+### 📊 **GitHub Activity**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalseeker&layout=compact&theme=radical)](https://github.com/royalseeker)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=royalseeker&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+**Open to collaborations in AI-driven bioinformatics! Let’s build solutions that matter.** 🚀 

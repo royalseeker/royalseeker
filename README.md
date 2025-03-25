@@ -2,7 +2,7 @@
 
 **🔬 Bioinformatics Specialist | 🧬 Computational Biology | 📊 AI-Driven Genomics**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayanahmed16/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/rayanahmed16/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-blue?style=flat&logo=Gmail)](mailto:rayanahmeduk@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/royalseeker)
 [![Visitors](https://komarev.com/ghpvc/?username=royalseeker&label=Profile%20Views&color=blueviolet)](https://github.com/royalseeker)

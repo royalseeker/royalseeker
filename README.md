@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rayan Ahmed! 
 
-**🔬 Bioinformatics Specialist | 🧬 Computational Biology | 📊 AI-Driven Genomics**  
+**🔬 Bioinformatics Grad | 🧬 Computational Biology | 📊 AI-Driven Genomics**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/rayanahmed16/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-blue?style=flat&logo=Gmail)](mailto:rayanahmeduk@outlook.com)
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 **About Me**  
-- 🔭 **Currently**: Bioinformatics Intern @ **HackBio**, check it out. [REPO](royalseeker/hackbio-biocoding-internship/)  
+- 🔭 **Currently**: Exploring Bioinformatics Oppertunity to support and grow in the field.  
 - 🌱 **Learning**: Scalable workflows (Nextflow), hierarchical ML for multi-omics, and Azure cloud.  
 - 💡 **Passionate About**: Translating genomic data into actionable insights for precision health.  
 - ⚡ **Fun Fact**: I trained an AI to predict plant stress—turns out, plants dislike Mondays too! 🌱😅  

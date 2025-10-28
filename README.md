@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 **About Me**  
-- 🔭 **Currently**: Exploring Bioinformatics Oppertunity to support and grow in the field.  
+- 🔭 **Currently**: Exploring Bioinformatics opportunity to support, learn and grow in the field.  
 - 🌱 **Learning**: Scalable workflows (Nextflow), hierarchical ML for multi-omics, and Azure cloud.  
 - 💡 **Passionate About**: Translating genomic data into actionable insights for precision health.  
 - ⚡ **Fun Fact**: I trained an AI to predict plant stress—turns out, plants dislike Mondays too! 🌱😅  
